@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-top: 100px;
+    text-align: center;
+    padding: 40px;
+    color: #c91173;
+    background-color: #fff300;
+    font-size: 18px;
+    font-weight: bold;
+    background-image: url('image\ ballons.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+h1 {
+    color: #1ba000;
+}
+
+p {
+    margin-bottom: 30px;
+    font-size: large;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+button {
+    background-color: #0066cc;
+    color: #fff;
+    padding: 7px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #003a74;
+}
+
+#explanations {
+    display: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
